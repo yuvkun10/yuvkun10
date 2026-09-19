@@ -19,4 +19,4 @@ AI engineer. I build document and finance automation, and small tools for workin
 
 ## Portfolio
 
-https://yuvraj-kunwar-portfolio.vercel.app
+https://yuvkun.me
